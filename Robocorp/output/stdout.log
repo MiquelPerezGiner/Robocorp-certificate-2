@@ -1,0 +1,10 @@
+==============================================================================
+Tasks :: Certificate example robot                                            
+==============================================================================
+Order robots from RobotSpareBin Industries Inc                        | PASS |
+------------------------------------------------------------------------------
+Tasks :: Certificate example robot                                    | PASS |
+1 task, 1 passed, 0 failed
+==============================================================================
+Output:  c:\Users\miquel\git\Robocorp\output\output.xml
+Log:     c:\Users\miquel\git\Robocorp\output\log.html
