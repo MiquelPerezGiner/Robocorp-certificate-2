@@ -97,8 +97,7 @@ Embed the robot screenshot to the receipt PDF file
     Open PDF    ${pdf}
     ${file_list}=    Create List    ${screenshot}
     Add Files To Pdf    ${file_list}    ${pdf}    True
-    Log    Done
-    Log    ${pdf}
+
     Close All Pdfs
 
 Order another
