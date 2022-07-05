@@ -101,7 +101,6 @@ Embed the robot screenshot to the receipt PDF file
     Close All Pdfs
 
 Order another
-    Log    Lul
     Wait Until Element Is Visible    id:order-another
     Click Button    id:order-another
 
